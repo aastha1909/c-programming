@@ -1,2 +1,2 @@
 # c-programming
-basic practice
+basic practice for getting familiar with syntax 
